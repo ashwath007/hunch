@@ -6,5 +6,7 @@ We also provide SaaS software(Hunch.pal) for students to organize Resumes, CVs, 
 
 We get recruitment service charges(1-2%) from annual CTC at every successful closing, and also provide OUTPLACEMENT services and We provide job oriented courses or modules for job seekers in very affordable price (with collaboration with industries)
 
+Link : https://damp-reaches-67667.herokuapp.com/
+
 ![alt text](./hun.png)
 <br/>
