@@ -1,0 +1,2 @@
+# hunch
+Manpower has always been a major demanded resource in all types of industry in spite of automation, we designed Hunch (our product) to overcome the hurdles that are been faced in day to day life. We developed our product to resolve the hiring process, we consulted numerous industries and Recruiters what are the problem they are facing in their hiring process with the help of survey, We designed the hunch. 
